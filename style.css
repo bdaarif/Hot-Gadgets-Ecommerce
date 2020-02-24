@@ -21,6 +21,35 @@ ol.carousel-indicators li {
 ol.carousel-indicators .active {
     background-color: white;
 }
+.price{
+    color: orangered;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.headline a{
+    padding-bottom: 30px;
+}
+.seeAll{
+    color: orange;
+}
+
+.headline{
+    padding: 10px 20px;
+}
+.card img{
+    padding: 30px;
+}
+
+
+
+
+
+
+
+
 
 
 
