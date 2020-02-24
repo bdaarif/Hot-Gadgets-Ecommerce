@@ -43,6 +43,13 @@ ol.carousel-indicators .active {
     padding: 30px;
 }
 
+.bottomLine{
+    display: block;
+    width: 12%;
+    border: 2px solid orange;
+    margin-left: 44%;
+    
+}
 
 
 
