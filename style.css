@@ -1,0 +1,26 @@
+.container{
+    margin-bottom: 80px;
+}
+.buy-now-button{
+color: white;
+background-color: black;
+border: none;
+padding: 9px 25px;
+border-radius: 8px;
+}
+
+ol.carousel-indicators li {
+    background-color: red;
+    color: white;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
+ol.carousel-indicators .active {
+    background-color: white;
+}
+
+
+
