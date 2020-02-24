@@ -40,7 +40,7 @@ ol.carousel-indicators .active {
     padding: 10px 20px;
 }
 .card img{
-    padding: 30px;
+    padding: 50px 30px 10px 30px;
 }
 
 .bottomLine{
@@ -50,8 +50,28 @@ ol.carousel-indicators .active {
     margin-left: 44%;
     
 }
+.catperfume{
+    margin-bottom: 30px;
+}
 
-
+.card-footer{
+    background-color: white;
+    border: none;
+}
+#Contact{
+    height: 300px;
+    margin-top: 50px;
+}
+footer{
+    text-align: center;
+}
+.orange-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.card.w-100.catbag {
+    margin-left: 30px;
+}
 
 
 
